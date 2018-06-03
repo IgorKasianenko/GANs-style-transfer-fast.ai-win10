@@ -6,7 +6,7 @@ This is style transfer Windows 10 implementation based on fast.ai [Cutting Edge 
 1. CUDA compatible nVidia card, the most recent Nvidia drivers. CUDA and cudnn [packages](https://developer.nvidia.com/cuda-downloads) from official website, registriation needed.
 2. Follow instructions from the [forum](http://forums.fast.ai/t/howto-installation-on-windows/10439).
 
-### Windows 10 jupyter notebook
+### Windows 10 compatible jupyter notebook
 
 Is based on [style-transfer](https://github.com/fastai/fastai/blob/master/courses/dl2/style-transfer.ipynb) lesson notebook. It is optimized for running and fine-tuning parameters. For understanding of theoretical background please refer to [video](https://www.youtube.com/watch?v=xXXiC4YRGrQ) and [lesson wiki](http://forums.fast.ai/t/part-2-lesson-13-wiki/15297)
 
