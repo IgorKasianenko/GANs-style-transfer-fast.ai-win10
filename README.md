@@ -1,4 +1,4 @@
-# GANs-style-transfer-fast.ai-win10
+# GANs style transfer fast.ai implementation
 This is style transfer Windows 10 implementation based on fast.ai [Cutting Edge Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html), [Lesson 13](http://course.fast.ai/lessons/lesson13.html).
 
 ### Prerequisites
